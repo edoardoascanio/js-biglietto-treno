@@ -27,4 +27,5 @@ if(età > 65){
 
  if(età > 145){
     alert("Inserire età valida")
+    console.log("Inserire età valida")
  }
