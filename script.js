@@ -24,3 +24,7 @@ if(età > 65){
     var scontoOver = ((prezzoTotale * 40) / 100);
     console.log("Sconto Over" + scontoOver + "£")
  }
+
+ if(età > 145){
+    alert("Inserire età valida")
+ }
